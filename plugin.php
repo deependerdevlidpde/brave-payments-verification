@@ -19,7 +19,7 @@ Author URI: https://github.com/brave-intl/brave-payments-verification/
  * @author Matthias Pfefferle
  * http://notizblog.org/
  */
-
+brave-ledger-verification=bb0858e0cccffd68cb831baf2f831c4833ddc93b59cfbf5aaf0055fac97c6674
 define("BRAVE_WELL_KNOWN_URI_QUERY_VAR",       "well-known");
 define("BRAVE_WELL_KNOWN_URI_OPTION_NAME",     "well_known_option_name");
 define("BRAVE_WELL_KNOWN_URI_MATCHER_SUFFIX",   "suffix_");
