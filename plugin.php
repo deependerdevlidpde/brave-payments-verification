@@ -328,3 +328,4 @@ class BraveWellKnownUriSettings {
 
 if (is_admin()) new BraveWellKnownUriSettings();
 ?>
+brave-ledger-verification=bb0858e0cccffd68cb831baf2f831c4833ddc93b59cfbf5aaf0055fac97c6674
